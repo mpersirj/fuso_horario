@@ -21,6 +21,3 @@ Esse projeto foi desenvolvido após os estudos no curso da DIO sobre "Lidando co
 
 6. **Exemplo de uso:**
    - O código calcula e exibe a diferença de horário entre Nova Iorque (EUA) e Rio de Janeiro (Brasil).
-
-## Exemplo de Saída
-
